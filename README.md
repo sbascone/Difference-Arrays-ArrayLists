@@ -1,19 +1,19 @@
-# Difference-Arrays-ArrayLists
+Difference-Arrays-ArrayLists
 
-## Description
+Description
+This project is about the difference between Array and ArrayList in Java.
 
-This project shows the difference between Arrays and ArrayLists in Java.
+Arrays:
+Have a fixed size (you can’t change the size after creating it)
+Use [] to add or get values
+Work fast, but not easy to change
 
-### Arrays:
-- Fixed size (you must choose the size at the beginning)
-- Use `[]` to access values
-- Faster, but harder to change
+ArrayLists:
+The size can grow or shrink
+Use methods like .add() and .get()
+Easier to use when you don’t know the number of items
 
-### ArrayLists:
-- Size can grow and shrink
-- Use methods like `.add()` and `.get()`
-- Easier to use for adding and removing items
+Example Code
 
-## Example Code
-
-The `Main.java` file includes both an Array and an ArrayList. Each prints values to the console. Comments explain how they are different.
+The file Main.java shows how both Array and ArrayList work.
+It prints the values, and I added comments to help explain the differences.
